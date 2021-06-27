@@ -1,0 +1,45 @@
+D:\Okul\Programlama Dilleri\bsm208donemprojesigrup5\MicroServices\bin\Debug\MicroServices.dll
+D:\Okul\Programlama Dilleri\bsm208donemprojesigrup5\MicroServices\bin\Debug\MicroServices.pdb
+D:\Okul\Programlama Dilleri\bsm208donemprojesigrup5\MicroServices\bin\Debug\Entities.dll
+D:\Okul\Programlama Dilleri\bsm208donemprojesigrup5\MicroServices\bin\Debug\Entities.pdb
+D:\Okul\Programlama Dilleri\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.csprojAssemblyReference.cache
+D:\Okul\Programlama Dilleri\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.csproj.CoreCompileInputs.cache
+D:\Okul\Programlama Dilleri\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.csproj.CopyComplete
+D:\Okul\Programlama Dilleri\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.dll
+D:\Okul\Programlama Dilleri\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.pdb
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\MicroServices\bin\Debug\MicroServices.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\MicroServices\bin\Debug\MicroServices.pdb
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\MicroServices\bin\Debug\Entities.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\MicroServices\bin\Debug\Entities.pdb
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.csprojAssemblyReference.cache
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.csproj.CoreCompileInputs.cache
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.csproj.CopyComplete
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.pdb
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\MicroServices\bin\Debug\MicroServices.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\MicroServices\bin\Debug\MicroServices.pdb
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\MicroServices\bin\Debug\Entities.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\MicroServices\bin\Debug\Entities.pdb
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.csproj.CoreCompileInputs.cache
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.csproj.CopyComplete
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.pdb
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\MicroServices\obj\Debug\MicroServices.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\bsmproje\MicroServices\bin\Debug\MicroServices.dll
+C:\Users\PC\Desktop\bsmproje\MicroServices\bin\Debug\MicroServices.pdb
+C:\Users\PC\Desktop\bsmproje\MicroServices\bin\Debug\Entities.dll
+C:\Users\PC\Desktop\bsmproje\MicroServices\bin\Debug\Entities.pdb
+C:\Users\PC\Desktop\bsmproje\MicroServices\obj\Debug\MicroServices.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\bsmproje\MicroServices\obj\Debug\MicroServices.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\bsmproje\MicroServices\obj\Debug\MicroServices.csproj.CopyComplete
+C:\Users\PC\Desktop\bsmproje\MicroServices\obj\Debug\MicroServices.dll
+C:\Users\PC\Desktop\bsmproje\MicroServices\obj\Debug\MicroServices.pdb
+C:\Users\PC\Desktop\proje\MicroServices\bin\Debug\MicroServices.dll
+C:\Users\PC\Desktop\proje\MicroServices\bin\Debug\MicroServices.pdb
+C:\Users\PC\Desktop\proje\MicroServices\bin\Debug\Entities.dll
+C:\Users\PC\Desktop\proje\MicroServices\bin\Debug\Entities.pdb
+C:\Users\PC\Desktop\proje\MicroServices\obj\Debug\MicroServices.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\proje\MicroServices\obj\Debug\MicroServices.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\proje\MicroServices\obj\Debug\MicroServices.csproj.CopyComplete
+C:\Users\PC\Desktop\proje\MicroServices\obj\Debug\MicroServices.dll
+C:\Users\PC\Desktop\proje\MicroServices\obj\Debug\MicroServices.pdb

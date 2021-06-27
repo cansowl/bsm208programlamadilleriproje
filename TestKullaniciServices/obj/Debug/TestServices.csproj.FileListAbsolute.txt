@@ -1,0 +1,57 @@
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Entities.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\MicroServices.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Entities.pdb
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\MicroServices.pdb
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\obj\Debug\TestServices.csprojAssemblyReference.cache
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\obj\Debug\TestServices.csproj.CoreCompileInputs.cache
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\obj\Debug\TestServices.csproj.CopyComplete
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\TestServices.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\TestServices.pdb
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\obj\Debug\TestServices.dll
+C:\Users\SKG\Desktop\bsm208donemprojesigrup5\TestKullaniciServices\obj\Debug\TestServices.pdb
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\TestServices.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\TestServices.pdb
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Entities.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\MicroServices.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Entities.pdb
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\MicroServices.pdb
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\obj\Debug\TestServices.csprojAssemblyReference.cache
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\obj\Debug\TestServices.csproj.CoreCompileInputs.cache
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\obj\Debug\TestServices.csproj.CopyComplete
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\obj\Debug\TestServices.dll
+D:\Okul\Programlama Dilleri\Dönem Proje\bsm208donemprojesigrup5\TestKullaniciServices\obj\Debug\TestServices.pdb
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\TestServices.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\TestServices.pdb
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\Entities.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\MicroServices.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\Entities.pdb
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\MicroServices.pdb
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\PC\Desktop\proje\TestKullaniciServices\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\PC\Desktop\proje\TestKullaniciServices\obj\Debug\TestServices.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\proje\TestKullaniciServices\obj\Debug\TestServices.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\proje\TestKullaniciServices\obj\Debug\TestServices.csproj.CopyComplete
+C:\Users\PC\Desktop\proje\TestKullaniciServices\obj\Debug\TestServices.dll
+C:\Users\PC\Desktop\proje\TestKullaniciServices\obj\Debug\TestServices.pdb
